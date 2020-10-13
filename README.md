@@ -1,4 +1,4 @@
-# usefulJS
+# usefuls
 **Library for Useful Function for Javscript**
 
 ## Download
