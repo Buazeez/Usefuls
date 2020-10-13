@@ -1,13 +1,22 @@
 {
-  "name": "usefulJS",
-  "version": "1.0.0",
+  "name": "@buazeez/usefuls",
+  "version": "1.0.3",
   "description": "useful function for javascript",
   "main": "src/index.ts",
+  "readme": "src/README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/index.ts"
   },
-  "keywords": [],
+  "keywords": ["functions" , "useful" , "usefulFunctions" , "javascript" , "typescript" , "usefuls" , "usefulJS"],
   "author": "Abdulaziz",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Buazeez/usefulJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Buazeez/usefulJS/issues"
+  },
+  "homepage": "https://github.com/Buazeez/usefulJS#readme"
 }

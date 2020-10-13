@@ -1,3 +1,2 @@
 import {random ,range, unique , uuid} from './functions/collection'
-
-export { random }
+export { random ,range, unique , uuid }
