@@ -13,10 +13,10 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Buazeez/usefulJS.git"
+    "url": "https://github.com/Buazeez/Usefuls"
   },
   "bugs": {
-    "url": "https://github.com/Buazeez/usefulJS/issues"
+    "url": "https://github.com/Buazeez/Usefuls/issues"
   },
-  "homepage": "https://github.com/Buazeez/usefulJS#readme"
+  "homepage": "https://github.com/Buazeez/Usefuls#readme"
 }
