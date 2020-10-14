@@ -9,7 +9,7 @@
 `npm i @buazeez/usefuls`
 
 ## Functions
-**To see the functions exsist [Functions](src/functions/Functuons.md)**
+**To see the functions exsist [Functions](https://github.com/Buazeez/Usefuls/blob/main/src/functions/Functions.md)**
 
 ## How To-Use && Example
 
