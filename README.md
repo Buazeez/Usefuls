@@ -8,6 +8,9 @@
 
 `npm i @buazeez/usefuls`
 
+## Functions
+**To see the functions exsist [Functions](src/functions/Functuons.md)**
+
 ## How To-Use && Example
 
 ```javascript
