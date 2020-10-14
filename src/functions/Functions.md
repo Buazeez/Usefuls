@@ -5,7 +5,7 @@
 | Function |             Description              |                Method | Examble          |
 | -------- | :----------------------------------: | --------------------: | ---------------- |
 | radnom   | choose random number btw two numbers | `radnom(start , end)` | `radnom(0 , 50)` |
-| range    |  get all numbers in btween in array  |  `range(start , end)` | `range(0 , 50)`  |
+| range    |  get all numbers in between in array  |  `range(start , end)` | `range(0 , 50)`  |
 
 ## Others
 
