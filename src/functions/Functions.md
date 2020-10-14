@@ -9,7 +9,7 @@
 
 ## Others
 
-| Function |            Description             |                          Method | Method                   | Type|
+| Function |            Description             |                          Method | Examble                   | Type|
 | -------- | :--------------------------------: | :------------------------------: | :------------------------: |:------------------------:|
 | unique   |     generate a unique id by type     | `unique(type(string) , length)` | `unique('letters' , 10)` | `letters` , `numbers` `null(both)`|
 | uuid    | generate uuid code like `xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx`  |            `uuid()` | `uuid()`          |--|
